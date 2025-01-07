@@ -23,5 +23,5 @@ jobs:
               with:
                   username: Gwng
                   themes: cappuccin
-                  target-branch: main
+                  target-branch: monkeytype
                   github-token: ${{ secrets.GITHUB_TOKEN }}
