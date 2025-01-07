@@ -24,4 +24,4 @@ jobs:
                   username: Gwng
                   themes: catppuccin
                   target-branch: monkeytype
-                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  github-token: ${{ secrets.ACCESS_TOKEN }}
